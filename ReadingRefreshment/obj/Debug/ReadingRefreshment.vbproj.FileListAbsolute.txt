@@ -1,0 +1,15 @@
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.AboutBox.resources
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.BillingForm.resources
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.Resources.resources
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.SplashScreen1.resources
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.SummaryForm.resources
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.vbproj.GenerateResource.cache
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.vbproj.CoreCompileInputs.cache
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\bin\Debug\ReadingRefreshment.exe.config
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\bin\Debug\ReadingRefreshment.exe
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\bin\Debug\ReadingRefreshment.pdb
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\bin\Debug\ReadingRefreshment.xml
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.vbprojAssemblyReference.cache
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.exe
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.xml
+C:\Users\kris_\Desktop\Reading_Refreshment\ReadingRefreshment\ReadingRefreshment\obj\Debug\ReadingRefreshment.pdb
